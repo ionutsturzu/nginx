@@ -4,7 +4,7 @@
 
   <groupId>my.group</groupId>
   <artifactId>my.artifact</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1</version>
   <packaging>rpm</packaging>
 
   <name>my.artifact</name>
